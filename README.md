@@ -1,2 +1,2 @@
 # cpp-calculator
-# first project
+# Created within 1 day of picking up C++
