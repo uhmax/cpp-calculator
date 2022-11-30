@@ -1,2 +1,2 @@
 # cpp-calculator
-# Created within 1 day of picking up C++
+## Created within 1 day of picking up C++
